@@ -1,0 +1,16 @@
+{
+  "name": "kano-theremin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "dependencies": {
+    "midi": "^0.9.5",
+    "serialport": "^5.0.0"
+  },
+  "author": "Stephen Murray",
+  "license": "WTFPL"
+}
